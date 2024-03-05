@@ -17,9 +17,6 @@ The bot is built using the ipynb library, which allows you to import Jupyter not
 
 The bot uses the langchain library to interact with the Langchain API. You can find more information about the Langchain API in the official documentation.
 
-## License
-LangChainBot is released under the MIT license. See the LICENSE file for more information.
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
