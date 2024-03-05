@@ -1,5 +1,7 @@
 # LangChainBot README
 LangChainBot is a simple bot built using the Langchain API to generate responses to user inputs.
+The Bot is able to maintain memory and history for conversations as well as a Retrieval function.
+Similarity Search was used and the method for optimal Retrieval was MMR (Maximal Marginal Relevance).
 
 ## Prerequisites
 Python 3.6 or higher
